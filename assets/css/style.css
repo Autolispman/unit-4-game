@@ -1,0 +1,53 @@
+body {
+    box-sizing: border-box;
+    background-image: url(../images/bodyBackground.jpg);
+    background-size: auto;
+}
+
+.crystalsCollector {
+    background-color: #CA7127;
+    max-width: 250px;
+    padding: 10px;
+    font-size: 22px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 10px;
+}
+
+.instructions {
+    background-color: #FBE7CD;
+    margin: 10px;
+    font-size: 22px;
+
+}
+
+.randomNumberDiv {
+    background-color: #5BC980;
+    max-width: 150px;
+    margin: 10px;
+    font-size: 22px;
+}
+
+.winLoss {
+    background-color: #4AFDFE;
+    max-width: 200px;
+    margin: 10px;
+    font-size: 22px;
+}
+
+.imgTag {
+    width: 100px;
+}
+
+.subTotal {
+    background-color: #2CA294;
+    margin: 10px;
+    max-width: 150px;
+    padding: 5px 0 20px 5px ;
+    font-size: 22px;
+
+}
+
+
+
+
+
